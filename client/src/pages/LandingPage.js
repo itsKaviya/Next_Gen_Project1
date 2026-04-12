@@ -201,7 +201,7 @@ export default function LandingPage() {
           <span>✈️</span>
           <strong>TripWise</strong>
         </div>
-        <p className="footer-copy">© 2024 TripWise. Built with ❤️ using MERN + Gemini AI</p>
+        <p className="footer-copy">© 2026 TripWise.</p>
       </footer>
     </div>
   );

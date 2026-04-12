@@ -8,7 +8,7 @@ import DashboardPage from './pages/DashboardPage';
 import PlanTripPage from './pages/PlanTripPage';
 import TripDetailPage from './pages/TripDetailPage';
 import AcceptInvitePage from './pages/AcceptInvitePage';
-import './styles/global.css';
+import './pages/styles/global.css';
 
 const PrivateRoute = ({ children }) => {
   const { user, loading } = useAuth();
